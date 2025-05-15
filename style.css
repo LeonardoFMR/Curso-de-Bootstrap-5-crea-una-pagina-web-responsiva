@@ -1,0 +1,34 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.div-facilidades {
+    width: 325px;
+}
+
+.div-novedades {
+    width: 325px;
+}
+
+.color-amarillo{
+    color:#DAFF01;
+}
+
+.posicion{
+    top:55%;
+}
+
+
+@media (min-width:768px){
+
+    .div-novedades {
+        width: 696px;
+    }
+
+    .div-novedades{
+        width:696px;
+    }
+    .posicion{
+        top:40%;
+    }
+}
