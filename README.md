@@ -32,16 +32,10 @@ El objetivo principal fue construir un sitio de comercio electrónico moderno, a
 
 ## 🚀 Aprendizajes
 
-Durante el desarrollo, aprendí o reforcé conocimientos en:
-
-- Lectura e implementación de documentación oficial de Bootstrap.  
-- Uso de Grid y Flexbox para diseños fluidos y adaptables.  
-- Personalización de componentes de Bootstrap según las necesidades del proyecto.  
-- Aplicación de principios de accesibilidad en interfaces responsivas.
+Cómo utilizar Bootstrap 5 para crear interfaces de usuario atractivas y funcionales.
+La importancia de la accesibilidad en el desarrollo web y cómo implementarla.
+La creación de diseños responsivos que se adaptan a diferentes tamaños de pantalla.
+La integración de componentes de Bootstrap para mejorar la usabilidad de la página.
+La personalización de estilos para lograr un diseño único y acorde a las necesidades del proyecto.
 
 ---
-
-## 🎯 Conclusión
-
-Este proyecto me permitió aplicar Bootstrap de forma efectiva para crear una tienda online responsiva, accesible y con una experiencia de usuario profesional.
-
